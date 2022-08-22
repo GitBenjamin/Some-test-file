@@ -1,1 +1,84 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="hello 5.0.0">
+  <node id="1" lat="23.053430" lon="113.250000" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="helloworld"/>
+  <node id="2" lat="23.052960" lon="113.250000" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="helloworld"/>
+  <node id="3" lat="23.064900" lon="113.250000" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="helloworld"/>
+  <way id="379706445049163787" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="helloworld">
+    <nd ref="11179"/>
+    <nd ref="7605"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="60"/>
+    <tag k="name" v="East Road"/>
+  </way>
+  <way id="379706445049163789" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="helloworld">
+    <nd ref="7605"/>
+    <nd ref="9444"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="East Road"/>
+  </way>
+  <way id="379706445049163794" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="helloworld">
+    <nd ref="7606"/>
+    <nd ref="272985"/>
+    <nd ref="272986"/>
+    <nd ref="5300"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="-1"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="50"/>
+    <tag k="name" v="East Road"/>
+  </way>
+  <relation id="14414" changeset="0001" timestamp="2020-06-28T09:49:11Z" user="helloworld" uid="0002">
+    <member type="way" ref="379719639692667043" role="from"/>
+    <member type="way" ref="379719639696667195" role="via"/>
+    <member type="way" ref="379719639789667939" role="to"/>
+    <tag k="restriction" v="no_right_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="14415" changeset="0001" timestamp="2020-06-28T09:49:11Z" user="helloworld" uid="0002">
+    <member type="way" ref="379719639796668260" role="from"/>
+    <member type="way" ref="379719639807667426" role="via"/>
+    <member type="way" ref="379719639797667232" role="to"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="14416" changeset="0001" timestamp="2020-06-28T09:49:11Z" user="helloworld" uid="0002">
+    <member type="way" ref="379719639807667426" role="from"/>
+    <member type="way" ref="379719639797667232" role="via"/>
+    <member type="way" ref="379719639693668932" role="to"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="14417" changeset="0001" timestamp="2020-06-28T09:49:11Z" user="helloworld" uid="0002">
+    <member type="way" ref="379719639696667195" role="from"/>
+    <member type="node" ref="149243" role="via"/>
+    <member type="way" ref="379719639696667195" role="to"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="14418" changeset="0001" timestamp="2020-06-28T09:49:11Z" user="helloworld" uid="0002">
+    <member type="way" ref="379730634412430432" role="from"/>
+    <member type="way" ref="379730634808939352" role="via"/>
+    <member type="way" ref="379730634412430430" role="to"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="14419" changeset="0001" timestamp="2020-06-28T09:49:11Z" user="helloworld" uid="0002">
+    <member type="way" ref="379719639696667195" role="from"/>
+    <member type="node" ref="151001" role="via"/>
+    <member type="way" ref="379719639696667195" role="to"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+  <relation id="14420" changeset="0001" timestamp="2020-06-28T09:49:11Z" user="helloworld" uid="0002">
+    <member type="way" ref="379730634808939352" role="from"/>
+    <member type="node" ref="94090" role="via"/>
+    <member type="way" ref="379730634808939352" role="to"/>
+    <tag k="restriction" v="no_u_turn"/>
+    <tag k="type" v="restriction"/>
+  </relation>
+</osm>
