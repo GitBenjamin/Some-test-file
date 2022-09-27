@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Benjamin 5.0.0">
+  <node id="A" lat="A_LAT" lon="A_LON" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin"/>
+  <node id="B" lat="B_LAT" lon="B_LON" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin"/>
+  <node id="C" lat="C_LAT" lon="C_LON" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin"/>
+  <node id="D" lat="D_LAT" lon="D_LON" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin"/>
+  <node id="E" lat="E_LAT" lon="E_LON" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin"/>
+  <node id="F" lat="F_LAT" lon="F_LON" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin"/>
+  <node id="G" lat="G_LAT" lon="G_LON" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin"/>
+  <node id="H" lat="H_LAT" lon="H_LON" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin"/>
+  <node id="I" lat="I_LAT" lon="I_LON" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin"/>
+  <node id="J" lat="J_LAT" lon="J_LON" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin"/>
+  <node id="K" lat="K_LAT" lon="K_LON" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin"/>
+  <node id="L" lat="L_LAT" lon="L_LON" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin"/>
+  <node id="B2" lat="B_LAT" lon="B_LON" version="1" timestamp="2022-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+   <node id="C2" lat="C_LAT" lon="C_LON" version="1" timestamp="2022-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+   <node id="H2" lat="H_LAT" lon="H_LON" version="1" timestamp="2022-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+   <node id="I2" lat="I_LAT" lon="I_LON" version="1" timestamp="2022-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals:direction" v="forward"/>
+  </node>
+    <way id="BA" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin">
+    <nd ref="B"/>
+    <nd ref="A"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+  </way>
+      <way id="CB" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin">
+    <nd ref="C"/>
+    <nd ref="B"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+  </way>
+      <way id="GH" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin">
+    <nd ref="G"/>
+    <nd ref="H2"/>
+    <nd ref="H"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+  </way>
+      <way id="HI" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin">
+    <nd ref="H"/>
+    <nd ref="I"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+  </way>
+    <way id="IJ" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin">
+    <nd ref="I"/>
+    <nd ref="J"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+  </way>
+    <way id="EB" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin">
+    <nd ref="E"/>
+    <nd ref="B2"/>
+    <nd ref="B"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+  </way>
+    <way id="BH" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin">
+    <nd ref="B"/>
+    <nd ref="H"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+  </way>
+    <way id="HK" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin">
+    <nd ref="H"/>
+    <nd ref="K"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+  </way>
+      <way id="LI" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin">
+    <nd ref="L"/>
+    <nd ref="I2"/>
+    <nd ref="I"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+  </way>
+    <way id="IC" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin">
+    <nd ref="I"/>
+    <nd ref="C"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+  </way>
+    <way id="CF" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="Benjamin">
+    <nd ref="C"/>
+    <nd ref="F"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="maxspeed" v="40"/>
+  </way>
+ </osm>
