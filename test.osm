@@ -1,84 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="hello 5.0.0">
-  <node id="1" lat="23.053430" lon="113.250000" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="helloworld"/>
-  <node id="2" lat="23.052960" lon="113.250000" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="helloworld"/>
-  <node id="3" lat="23.064900" lon="113.250000" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="helloworld"/>
-  <way id="379706445049163787" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="helloworld">
-    <nd ref="11179"/>
-    <nd ref="7605"/>
+<osm version="0.6" generator="benjamin 5.0.0">
+  <node id="14360" lat="23.080130" lon="113.261980" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="15569" lat="23.079050" lon="113.260510" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="132678" lat="23.079830" lon="113.262140" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="132679" lat="23.079530" lon="113.262130" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="138956" lat="23.080073" lon="113.261849" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="168025" lat="23.081010" lon="113.261500" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="206918" lat="23.080350" lon="113.261860" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="206919" lat="23.080790" lon="113.263530" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="206920" lat="23.080700" lon="113.263580" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="206928" lat="23.079370" lon="113.262400" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="264816" lat="23.080130" lon="113.261980" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals:direction" v="backward"/>
+  </node>
+  <node id="264817" lat="23.080630" lon="113.261700" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="264818" lat="23.080850" lon="113.261590" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="264819" lat="23.080130" lon="113.261980" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals:direction" v="backward"/>
+  </node>
+  <node id="264820" lat="23.080170" lon="113.262210" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="264821" lat="23.080240" lon="113.262450" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="264822" lat="23.080500" lon="113.263110" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="264826" lat="23.080770" lon="113.263430" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="264827" lat="23.080680" lon="113.263080" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="264828" lat="23.080630" lon="113.262780" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="264829" lat="23.080550" lon="113.262440" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="264830" lat="23.080490" lon="113.262260" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="264831" lat="23.080400" lon="113.261980" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="450934" lat="23.080130" lon="113.261980" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals:direction" v="backward"/>
+  </node>
+  <node id="450938" lat="23.079550" lon="113.262120" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="450939" lat="23.079610" lon="113.262090" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="450940" lat="23.079690" lon="113.262090" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="450941" lat="23.079780" lon="113.262120" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="489792" lat="23.080060" lon="113.261820" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="489793" lat="23.079940" lon="113.261580" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="489794" lat="23.079720" lon="113.261140" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="489795" lat="23.079610" lon="113.260940" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="489796" lat="23.079580" lon="113.260910" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="489797" lat="23.079540" lon="113.260860" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin"/>
+  <node id="529936" lat="23.080130" lon="113.261980" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals:direction" v="backward"/>
+  </node>
+  <way id="379707544608988211" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin">
+    <nd ref="14360"/>
+    <nd ref="450934"/>
+    <nd ref="132678"/>
     <tag k="highway" v="tertiary"/>
-    <tag k="oneway" v="yes"/>
-    <tag k="lanes" v="3"/>
-    <tag k="maxspeed" v="60"/>
-    <tag k="name" v="East Road"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="NorthRoad_3"/>
   </way>
-  <way id="379706445049163789" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="helloworld">
-    <nd ref="7605"/>
-    <nd ref="9444"/>
-    <tag k="highway" v="tertiary"/>
-    <tag k="oneway" v="yes"/>
-    <tag k="lanes" v="3"/>
-    <tag k="maxspeed" v="50"/>
-    <tag k="name" v="East Road"/>
-  </way>
-  <way id="379706445049163794" version="1" timestamp="2020-06-28T09:49:11Z" changeset="0001" uid="0002" user="helloworld">
-    <nd ref="7606"/>
-    <nd ref="272985"/>
-    <nd ref="272986"/>
-    <nd ref="5300"/>
-    <tag k="highway" v="tertiary"/>
+  <way id="379707544608988215" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin">
+    <nd ref="132679"/>
+    <nd ref="450938"/>
+    <nd ref="450939"/>
+    <nd ref="450940"/>
+    <nd ref="450941"/>
+    <nd ref="132678"/>
+    <tag k="highway" v="unclassified"/>
     <tag k="oneway" v="-1"/>
-    <tag k="lanes" v="3"/>
-    <tag k="maxspeed" v="50"/>
-    <tag k="name" v="East Road"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="15"/>
+    <tag k="name" v="A"/>
   </way>
-  <relation id="14414" changeset="0001" timestamp="2020-06-28T09:49:11Z" user="helloworld" uid="0002">
-    <member type="way" ref="379719639692667043" role="from"/>
-    <member type="way" ref="379719639696667195" role="via"/>
-    <member type="way" ref="379719639789667939" role="to"/>
-    <tag k="restriction" v="no_right_turn"/>
-    <tag k="type" v="restriction"/>
-  </relation>
-  <relation id="14415" changeset="0001" timestamp="2020-06-28T09:49:11Z" user="helloworld" uid="0002">
-    <member type="way" ref="379719639796668260" role="from"/>
-    <member type="way" ref="379719639807667426" role="via"/>
-    <member type="way" ref="379719639797667232" role="to"/>
-    <tag k="restriction" v="no_u_turn"/>
-    <tag k="type" v="restriction"/>
-  </relation>
-  <relation id="14416" changeset="0001" timestamp="2020-06-28T09:49:11Z" user="helloworld" uid="0002">
-    <member type="way" ref="379719639807667426" role="from"/>
-    <member type="way" ref="379719639797667232" role="via"/>
-    <member type="way" ref="379719639693668932" role="to"/>
-    <tag k="restriction" v="no_u_turn"/>
-    <tag k="type" v="restriction"/>
-  </relation>
-  <relation id="14417" changeset="0001" timestamp="2020-06-28T09:49:11Z" user="helloworld" uid="0002">
-    <member type="way" ref="379719639696667195" role="from"/>
-    <member type="node" ref="149243" role="via"/>
-    <member type="way" ref="379719639696667195" role="to"/>
-    <tag k="restriction" v="no_u_turn"/>
-    <tag k="type" v="restriction"/>
-  </relation>
-  <relation id="14418" changeset="0001" timestamp="2020-06-28T09:49:11Z" user="helloworld" uid="0002">
-    <member type="way" ref="379730634412430432" role="from"/>
-    <member type="way" ref="379730634808939352" role="via"/>
-    <member type="way" ref="379730634412430430" role="to"/>
-    <tag k="restriction" v="no_u_turn"/>
-    <tag k="type" v="restriction"/>
-  </relation>
-  <relation id="14419" changeset="0001" timestamp="2020-06-28T09:49:11Z" user="helloworld" uid="0002">
-    <member type="way" ref="379719639696667195" role="from"/>
-    <member type="node" ref="151001" role="via"/>
-    <member type="way" ref="379719639696667195" role="to"/>
-    <tag k="restriction" v="no_u_turn"/>
-    <tag k="type" v="restriction"/>
-  </relation>
-  <relation id="14420" changeset="0001" timestamp="2020-06-28T09:49:11Z" user="helloworld" uid="0002">
-    <member type="way" ref="379730634808939352" role="from"/>
-    <member type="node" ref="94090" role="via"/>
-    <member type="way" ref="379730634808939352" role="to"/>
-    <tag k="restriction" v="no_u_turn"/>
-    <tag k="type" v="restriction"/>
-  </relation>
+  <way id="379707544671896188" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin">
+    <nd ref="14360"/>
+    <nd ref="264816"/>
+    <nd ref="206918"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="NorthRoad_2"/>
+  </way>
+  <way id="379707544671896189" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin">
+    <nd ref="206918"/>
+    <nd ref="264817"/>
+    <nd ref="264818"/>
+    <nd ref="168025"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="NorthRoad_1"/>
+  </way>
+  <way id="379707544671896190" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin">
+    <nd ref="14360"/>
+    <nd ref="264819"/>
+    <nd ref="264820"/>
+    <nd ref="264821"/>
+    <nd ref="264822"/>
+    <nd ref="206920"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="40"/>
+    <tag k="name" v="NewRoad"/>
+  </way>
+  <way id="379707544671896193" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin">
+    <nd ref="206919"/>
+    <nd ref="264826"/>
+    <nd ref="264827"/>
+    <nd ref="264828"/>
+    <nd ref="264829"/>
+    <nd ref="264830"/>
+    <nd ref="264831"/>
+    <nd ref="206918"/>
+    <tag k="highway" v="footway"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="1"/>
+    <tag k="maxspeed" v="10"/>
+    <tag k="name" v="B"/>
+  </way>
+  <way id="379707544671896194" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin">
+    <nd ref="132678"/>
+    <nd ref="206928"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="name" v="NorthRoad_4"/>
+  </way>
+  <way id="379707545068845103" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin">
+    <nd ref="138956"/>
+    <nd ref="489792"/>
+    <nd ref="489793"/>
+    <nd ref="489794"/>
+    <nd ref="489795"/>
+    <nd ref="489796"/>
+    <nd ref="489797"/>
+    <nd ref="15569"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="15"/>
+    <tag k="name" v="UnknownRoad"/>
+  </way>
+  <way id="379707545169845732" version="1" timestamp="2023-06-28T09:49:11Z" changeset="0001" uid="0002" user="benjamin">
+    <nd ref="14360"/>
+    <nd ref="529936"/>
+    <nd ref="138956"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="oneway" v="no"/>
+    <tag k="lanes" v="2"/>
+    <tag k="maxspeed" v="15"/>
+    <tag k="name" v="UnknownRoad"/>
+  </way>
 </osm>
